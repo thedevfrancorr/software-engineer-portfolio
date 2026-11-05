@@ -25,4 +25,3 @@ All portfolio content and configuration describe Francisco Arroyo's professional
 ## Documentation translations
 
 - [Español](./translations/es/README.md)
-- [Português do Brasil](./translations/pt-BR/README.md)
